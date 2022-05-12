@@ -49,7 +49,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'house',
+      name: 'Readme',
       link: 'https://ianpundar.github.io',
     },
     {
